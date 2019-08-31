@@ -63,8 +63,13 @@ namespace wpf_xpath_demo
             }
             //xmldoc.Save(@"d:\1.xml");
             //Console.Write(xmldoc.OuterXml);
+            /*
+             * 由此可见：
+             * 1. * 与 ./*相同,皆代表子节点 （皆不包含自己）
+             * 2. //* 代表所有节点，无论当前节点是什么。
+             * 3. .//* 代表所有后代节点。
+             */
             var cmd = "childs";
-
             if (cmd == "cur") //获取当前节点方法
             {
                 //第1种：直接访问
