@@ -1,0 +1,7 @@
+E:\szp-workspace\wpf\wpf_xpath_demo\bin\Debug\wpf_xpath_demo.exe.config
+E:\szp-workspace\wpf\wpf_xpath_demo\bin\Debug\wpf_xpath_demo.exe
+E:\szp-workspace\wpf\wpf_xpath_demo\bin\Debug\wpf_xpath_demo.pdb
+E:\szp-workspace\wpf\wpf_xpath_demo\obj\Debug\wpf_xpath_demo.csprojAssemblyReference.cache
+E:\szp-workspace\wpf\wpf_xpath_demo\obj\Debug\wpf_xpath_demo.csproj.CoreCompileInputs.cache
+E:\szp-workspace\wpf\wpf_xpath_demo\obj\Debug\wpf_xpath_demo.exe
+E:\szp-workspace\wpf\wpf_xpath_demo\obj\Debug\wpf_xpath_demo.pdb
